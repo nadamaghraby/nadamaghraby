@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI-based mobile application**
 
-- 🌱 I’m currently learning **DeepFace, Django**
+- 🌱 I’m currently learning about **Different deep learning models**
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
